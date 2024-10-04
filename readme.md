@@ -10,4 +10,5 @@ this project is solely used for git demonstration
 int.TryParse(6.33, out int Value)
 Console.WriteLine($"Value is: {Value});
 ```
+STASH TEXT
 
